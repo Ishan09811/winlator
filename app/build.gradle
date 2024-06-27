@@ -6,7 +6,7 @@ android {
     buildToolsVersion '30.0.3'
 
     defaultConfig {
-        applicationId 'com.winlator'
+        applicationId 'com.antutu.ABenchMark'
         minSdkVersion 26
         targetSdkVersion 28
         versionCode 13
